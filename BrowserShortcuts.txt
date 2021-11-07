@@ -1,8 +1,8 @@
-cmd + N 创建新窗口
-cmd + T 新建标签页
-cmd + D 为当前页创建书签
-cmd + R 重新加载页面
-cmd + Y 显示历史记录
+cmd + N         创建新窗口 
+cmd + T         新建标签页
+cmd + D         为当前页创建书签
+cmd + R         重新加载页面
+cmd + Y         显示历史记录
+cmd + L         定位到地址栏 
+cmd + opt + I   开发者工具
 cmd + Shift + B 显示/隐藏书签栏
-cmd+L 定位到地址栏 
-cmd+opt+I 开发者工具
